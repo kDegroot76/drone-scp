@@ -26,3 +26,4 @@ Notes and usage details for drone-scp.
 - clarify the setup steps
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
